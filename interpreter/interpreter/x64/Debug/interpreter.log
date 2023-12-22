@@ -1,0 +1,8 @@
+﻿  interpreter.cpp
+C:\Users\doguk\OneDrive\Masaüstü\DEVLAB\CSHARP\interpreter\interpreter\DllLoader.h(86): warning C4715: 'runFunctionFromDll4': tüm denetim yolları değer döndürmez
+C:\Users\doguk\OneDrive\Masaüstü\DEVLAB\CSHARP\interpreter\interpreter\DllLoader.h(102): warning C4715: 'runFunctionFromDll5': tüm denetim yolları değer döndürmez
+C:\Users\doguk\OneDrive\Masaüstü\DEVLAB\CSHARP\interpreter\interpreter\DllLoader.h(54): warning C4715: 'runFunctionFromDll2': tüm denetim yolları değer döndürmez
+C:\Users\doguk\OneDrive\Masaüstü\DEVLAB\CSHARP\interpreter\interpreter\DllLoader.h(70): warning C4715: 'runFunctionFromDll3': tüm denetim yolları değer döndürmez
+C:\Users\doguk\OneDrive\Masaüstü\DEVLAB\CSHARP\interpreter\interpreter\DllLoader.h(21): warning C4715: 'runFunctionFromDll': tüm denetim yolları değer döndürmez
+C:\Users\doguk\OneDrive\Masaüstü\DEVLAB\CSHARP\interpreter\interpreter\DllLoader.h(38): warning C4715: 'runFunctionFromDll1': tüm denetim yolları değer döndürmez
+  interpreter.vcxproj -> C:\Users\doguk\OneDrive\Masaüstü\DEVLAB\CSHARP\interpreter\x64\Debug\interpreter.exe
